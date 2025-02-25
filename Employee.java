@@ -10,9 +10,12 @@ public class Employee {
    public Employee()
    {
       this("hi","hello",'f',30);
+
       System.out.println("defult constructor");
 
    }
+
+
 
    public  Employee(String firstName,String lastName,char gender,int age  )
    {

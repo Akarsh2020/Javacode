@@ -2,8 +2,9 @@ public class EmployeeMain {
     public static void main(String[] args) {
 
         Employee employee1 = new Employee("Akarsh","shetty",'M',30);
-        Employee employee2 = new Employee("Sowmya","shetty",'f',27);
+      Employee employee2 = new Employee("Sowmya","shetty",'f',27);
         Employee employee3=new Employee();
+
 
 
 
